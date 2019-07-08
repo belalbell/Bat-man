@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/batTemp.dir/main.cpp.o CMakeFiles/batTemp.dir/BatFunctions.cpp.o CMakeFiles/batTemp.dir/DeadLock.cpp.o CMakeFiles/batTemp.dir/Monitor.cpp.o  -o batTemp 

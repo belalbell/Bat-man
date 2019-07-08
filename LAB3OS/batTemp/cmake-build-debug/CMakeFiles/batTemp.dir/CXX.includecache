@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sara/Desktop/batTemp/BatFunctions.cpp
+BatFunctions.h
+/home/sara/Desktop/batTemp/BatFunctions.h
+
+/home/sara/Desktop/batTemp/BatFunctions.h
+iostream
+-
+mutex
+-
+pthread.h
+-
+unistd.h
+-
+DeadLock.h
+/home/sara/Desktop/batTemp/DeadLock.h
+
+/home/sara/Desktop/batTemp/DeadLock.h
+iostream
+-
+mutex
+-
+pthread.h
+-
+unistd.h
+-
+
